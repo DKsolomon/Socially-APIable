@@ -15,4 +15,6 @@ Use Insomnia to send requests to the API following the routes.
 
 ## Video Demos
 
-![Social Network API User Routes](https://drive.google.com/file/d/1Tab3L5J0JIg6VUAvQ0PEfxU8WAD44rIq/view)
+[Social Network API User Routes](https://drive.google.com/file/d/1Tab3L5J0JIg6VUAvQ0PEfxU8WAD44rIq/view)
+
+[Social Network APO Thought Routes](https://drive.google.com/file/d/1AAR5X5SvXaUFFoErJr0G0nnDIgB6avTE/view)
