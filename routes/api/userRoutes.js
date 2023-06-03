@@ -12,7 +12,7 @@ const {
 
 router
 .route('/')
-.get(getAllUser)
+.get(getAllUsers)
 .post(createUser);
 
 router
